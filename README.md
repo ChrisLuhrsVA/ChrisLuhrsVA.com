@@ -13,7 +13,7 @@
 <iframe width="30%" height="440" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/860362876&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-948534150" title="ChrisLuhrsVA" target="_blank" style="color: #cccccc; text-decoration: none;">ChrisLuhrsVA</a> · <a href="https://soundcloud.com/user-948534150/chris-luhrs-video-game-audition-reel-2020" title="Chris Luhrs - Video Game Demo Reel 2020" target="_blank" style="color: #cccccc; text-decoration: none;">Chris Luhrs - Video Game Demo Reel 2020</a></div>
 <hr>
 <h2>Recent audition:</h2>
-<iframe width="660" height="415" img class="red-border" src="https://www.youtube.com/embed/15CXs98yrVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="925" height="500" img class="red-border" src="https://www.youtube.com/embed/15CXs98yrVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
   <h1>Current Voice Acting Roles:</h1>
 <ul>
