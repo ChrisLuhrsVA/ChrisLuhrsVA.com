@@ -1,5 +1,5 @@
 <html>
-<link rel="stylesheet" href="style.css">
+
 <link href="https://fonts.googleapis.com/css?family=Trade+Winds" rel="stylesheet" type="text/css">
 <body id="grad">
 
