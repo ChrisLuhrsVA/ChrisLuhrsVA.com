@@ -3,7 +3,7 @@
 } }
 
 @media (max-width: 400px) { .mobile-soundcloud {
-            
+            height: auto;
 } }
 @media { ul { 
 	padding-right: 35px;
