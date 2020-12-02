@@ -33,10 +33,10 @@ body {
 h1, h2, h3, li {
 	font-family: 'trade winds';
 	text-align: center;
-    font-size: 42.5px;
+    font-size: 50px;
 }
 p {
-    font-size: 37.5px;
+    font-size: 45px;
     max-width: 1000;
     margin: auto
 }
@@ -51,7 +51,7 @@ p, ul, li, footer{
 }
 ul {
 	margin: 10px 0;
-    font-size: 42.5px;
+    font-size: 50px;
 }
 strong {
 	color: yellow;
