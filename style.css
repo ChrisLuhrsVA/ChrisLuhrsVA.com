@@ -36,10 +36,10 @@ body {
 h1, h2, h3, li {
 	font-family: 'trade winds';
 	text-align: center;
-    font-size: 30px;
+    font-size: 42.5px;
 }
 p {
-    font-size: 25px;
+    font-size: 37.5px;
     max-width: 1000;
     margin: auto
 }
@@ -51,7 +51,7 @@ h1, h2, h3, p, ul, li, footer{
 }
 ul {
 	margin: 10px 0;
-    font-size: 30px;
+    font-size: 42.5px;
 }
 .links {
 	color: orange;
