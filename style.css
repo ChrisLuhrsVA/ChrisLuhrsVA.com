@@ -119,16 +119,31 @@ hr {
 	width: 100px;
 	padding-bottom: 15px;
 }
-#logo-flexbox {
-	height: 200%;
-	display: flex;
-	flex-direction: column;
-        flex-wrap: wrap;
-	align-items: center;
-	justify-content: space-evenly;
-}
 .smaller-logos {
 	width: 600px;
+}
+.data7-position {
+	position: relative;
+	bottom: 27px;
+}
+.vambrace-position {
+	position: relative;
+	bottom: 12.5px;
+}
+.suits-padding {
+	padding-bottom: 30px;
+}
+.skyline-position {
+  position: relative;
+  bottom: -10px;
+}
+.moatboat-position {
+	position: relative;
+	top: -10px;
+}
+.qualitam-position {
+    position: relative;
+    top: 25px;
 }
 .li-padding {
 	padding-top: 40px;
