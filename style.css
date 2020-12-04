@@ -125,6 +125,7 @@ hr {
 	display: flex;
 	flex-direction: row;
 	flex: wrap;
+	align-items: center;
 }
 .smaller-logos {
 	width: 600px;
