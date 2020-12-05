@@ -6,6 +6,9 @@ body {
 	background-color: #0a0a23;
         text-align: center;
 }
+.position-header {
+    padding-bottom: 50px;
+}
 h1, h2, h3, li {
 	font-family: 'trade winds';
 	text-align: center;
