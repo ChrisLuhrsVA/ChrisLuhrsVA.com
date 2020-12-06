@@ -4,11 +4,15 @@
 }
 body {
 	background-color: #0a0a23;
-        text-align: center;
+    text-align: center;
 }
 .position-header {
     padding-bottom: 50px;
 }
+
+
+
+/*text/colors*/
 h1, h2, h3, h4, h5, li {
 	font-family: 'trade winds';
 	text-align: center;
@@ -41,19 +45,48 @@ strong {
 hr {
 	margin: 50px 0px 50px 0px;
 }
+
+
+
+/*Social Media*/
+#social-media-flexbox {
+	height: 25%;
+	display: flex;
+	flex-direction: row;
+    flex-wrap: nowrap;
+	align-items: center;
+    justify-content: center;
+}
+.gmail-padding {
+    padding-right: 50px;
+}
+.discord-padding {
+    padding-right: 50px;
+}
+.youtube-padding {
+    padding-right: 50px;
+}
+
+
+
+/*img sizing*/
 .smaller-bax {
     width: 925px;
     height: 500px;
     position: relative;
 }
-.red-border { 
+
+
+
+/*img borders*/
+.red-border {
 		border-color: #720001;
 		border-width: 5px;
 		border-style: solid;
 		border-radius: 0%;	   
 }
 .orange-border {
-	   border-color: orange;
+	    border-color: orange;
 		border-width: 5px;
 		border-style: solid;
 		border-radius: 0%;
@@ -96,7 +129,7 @@ hr {
 }
 .gray-border {
 	   border-color: gray;
-           border-width: 5px;
+       border-width: 5px;
 	   border-style: solid;
 	   border-radius: 0%;
 }
@@ -112,18 +145,10 @@ hr {
 	border-style: solid;
 	border-radius: 0%;
 }
-#social-media-flexbox {
-	height: 25%;
-	display: flex;
-	flex-direction: row;
-        flex-wrap: wrap;
-	align-items: center;
-        justify-content: center;
-}
-.youtube-logo {
-    padding-right: 15px;
-}
 
+
+
+/*Clients*/
 .smaller-logos {
 	width: 600px;
 }
@@ -158,6 +183,10 @@ hr {
 .li-padding {
 	padding-top: 40px;
 }
+
+
+
+/*About Me*/
 .pfp-border {
 	border-color: #9F2833;
 	border-width: 5px;
