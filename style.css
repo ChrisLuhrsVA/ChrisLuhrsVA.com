@@ -57,8 +57,9 @@ hr {
 	align-items: center;
     justify-content: center;
 }
-.gmail-padding {
+.discord-padding {
     padding-right: 50px;
+    padding-top: 15px;
 }
 .discord-padding {
     padding-right: 50px;
