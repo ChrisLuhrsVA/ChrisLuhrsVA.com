@@ -122,6 +122,11 @@ hr {
 .smaller-logos {
 	width: 600px;
 }
+.clients-padding {
+    padding-bottom: 15px;
+    height: 225px;
+    width: 800px;
+}
 .data7-position {
 	position: relative;
 	bottom: 27px;
