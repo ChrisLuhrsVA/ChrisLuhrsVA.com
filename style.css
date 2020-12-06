@@ -9,20 +9,20 @@ body {
 .position-header {
     padding-bottom: 50px;
 }
-h1, h2, h3, li {
+h1, h2, h3, h4, h5, li {
 	font-family: 'trade winds';
 	text-align: center;
-        font-size: 50px;
+    font-size: 50px;
 }
 p {
     font-size: 45px;
     max-width: 1000;
-    margin: auto
+    margin: auto;
 }
 .white-text {
 	color: white;
 }
-h1, h2, h3 {
+h1, h2, h3, h4, h5 {
     color: darkorange;
 }
 p, ul, li, footer{
@@ -112,9 +112,19 @@ hr {
 	border-style: solid;
 	border-radius: 0%;
 }
-.social-media {
-    width: 200px;
+#social-media-flexbox {
+	height: 15%;
+	display: flex;
+	flex-direction: row;
+    flex-wrap: wrap;
+	align-items: center;
+    justify-content: center;
+    flex-grow: 3;
 }
+.youtube-logo {
+    padding-right: 15px;
+}
+
 .smaller-logos {
 	width: 600px;
 }
