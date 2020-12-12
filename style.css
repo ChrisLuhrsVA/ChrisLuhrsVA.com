@@ -163,39 +163,21 @@ hr {
 
 
 /*Clients*/
+#clients-flexbox {
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .smaller-logos {
 	width: 600px;
 }
-.clients-padding {
-    padding-bottom: 15px;
-    height: 225px;
-    width: 800px;
-}
-.data7-position {
-	position: relative;
-	bottom: 27px;
-}
-.vambrace-position {
-	position: relative;
-	bottom: 12.5px;
-}
-.suits-padding {
-	padding-bottom: 30px;
-}
-.skyline-position {
-  position: relative;
-  bottom: -10px;
-}
-.moatboat-position {
-	position: relative;
-	top: -10px;
-}
 .qualitam-position {
     position: relative;
-    top: 25px;
+    top: 20px;
 }
 .li-padding {
-	padding-top: 40px;
+	padding-top: 60px;
 }
 
 
