@@ -89,6 +89,13 @@ hr {
     height: 500px;
     position: relative;
 }
+#tweet-flexbox {
+	display: flex;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
