@@ -51,6 +51,16 @@ hr {
 
 
 
+/*studio*/
+#studio-flexbox {
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
 /*Social Media*/
 #social-media-flexbox {
 	height: 20%;
