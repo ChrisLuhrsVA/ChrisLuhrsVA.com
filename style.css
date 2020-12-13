@@ -8,13 +8,13 @@
 }
 
 
-
+/*
 #grad {
 	height: auto;
 	background-image: linear-gradient(#0a0a23, #203354)
 }
+*/
 body {
-	background-color: #0a0a23;
     text-align: center;
 }
 .position-header {
@@ -98,7 +98,7 @@ hr {
 .smaller-bax {
     width: 925px;
     height: 500px;
-    position: relative;
+    position: center;
 }
 #tweet-flexbox {
 	display: flex;
