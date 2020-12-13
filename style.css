@@ -98,7 +98,7 @@ hr {
 .smaller-bax {
     width: 925px;
     height: 500px;
-    margin-right: 30px;
+    position: relative;
 }
 #tweet-flexbox {
 	display: flex;
