@@ -1,6 +1,6 @@
-@media only screen and (max-width: 950px;) {
-   .smaller-bax {
-      padding-right: 5%;
+@media only screen and (max-width: 950px;) { 
+.smaller-bax {
+      padding-right: 7.5%;
    }
 }
 
@@ -107,12 +107,12 @@ hr {
 
 
 
-/*
+
 .smaller-bax {
     width: 925px;
     height: 500px;
 }
-*/
+
 
 /*
 #img-flexbox {
