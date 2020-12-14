@@ -99,20 +99,21 @@ hr {
 
 
 
-/*img sizing*/
-.smaller-bax {
-    width: 925px;
-    height: 500px;
-    max-width: 50%
-}
 /*
+img sizing
+.smaller-bax {
+    width: auto;
+    height: auto;
+}
+
+
+
 #img-flexbox {
-    display: flex;
     height: auto;
     width: auto;
-	flex-direction: column;
-    flex-wrap: nowrap;
-	align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
 }
 */
@@ -165,7 +166,6 @@ hr {
 	right: 5px;
 }
 .smaller-image {
-	max-width: 20%;
     height: 350;
     position: relative;
 }
