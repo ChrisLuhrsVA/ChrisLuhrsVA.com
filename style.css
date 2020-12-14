@@ -1,3 +1,11 @@
+@media only screen and (max-width: 950px) {
+   .smaller-bax {
+      padding-right: 10%;
+   }
+}
+
+
+
 /*background body images*/
 .blue-wood { 
         background: url('https://wallpaperaccess.com/full/1567677.jpg') no-repeat center center fixed; 
