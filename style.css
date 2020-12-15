@@ -1,9 +1,13 @@
 @media only screen and (max-width: 992px) { .blue-wood {
         background: url('https://wallpaperaccess.com/full/1567677.jpg') no-repeat center center; 
+        height: 100%;
+        width: 100%;
+        /*
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
+        */
     }
 }
 @media only screen and (max-width: 992px) { #img-flexbox {
