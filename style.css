@@ -10,8 +10,11 @@
       padding-right: 2.7%;
    }
 }
-
-
+@media only screen and (max-width: 992px) { .mobile-soundcloud-size {
+        height: 950;
+        width: 80%;
+   }
+}
 
 /*background body images*/
 .blue-wood { 
