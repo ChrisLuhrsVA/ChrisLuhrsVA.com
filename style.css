@@ -1,5 +1,5 @@
-@media only screen and (max-width: auto) { .blue-wood {
-        height: auto;
+@media only screen and (max-width: 992px) { .blue-wood {
+        height: 1334px;
     }
 }
 @media only screen /*and (min-width: 768px)*/ and (max-width: 992px) { #img-flexbox {
