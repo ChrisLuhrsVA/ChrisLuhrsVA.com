@@ -1,10 +1,20 @@
+@media only screen and (max-width: auto) { #blue-wood-mobile {
+        background: url('https://wallpaperaccess.com/full/1567677.jpg') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}
 @media only screen and (max-width: 992px) { #img-flexbox {
       padding-right: 2.7%;
    }
 }
 
+
+
 /*background body images*/
-#blue-wood { 
+.blue-wood { 
         background: url('https://wallpaperaccess.com/full/1567677.jpg') no-repeat center center fixed; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
