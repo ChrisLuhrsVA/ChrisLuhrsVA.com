@@ -179,7 +179,7 @@ hr {
 }
 .pfp-position {
 	position: relative;
-	right: 5px;
+	margin-left: 15px;
 }
 .smaller-image {
     height: 350;
