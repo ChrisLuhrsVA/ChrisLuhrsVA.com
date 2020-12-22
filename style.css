@@ -187,6 +187,7 @@ hr {
 }
 footer {
     position: relative;
-    top: 25px;
-    bottom: 25px;
+    top: 50px;
+    bottom: 50px;
+    font-size: 45px;
 }
