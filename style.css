@@ -15,10 +15,12 @@
         width: 85%;
    }
 }
+/*
 @media only screen and (max-width: 992px) { #social-media-flexbox {
     padding: 0 0 -290 -720;
     }
 }
+*/
 
 /*background body images*/
 .blue-wood { 
@@ -98,7 +100,7 @@ hr {
     padding-top: 1px;
 }
 #social-media-flexbox {    
-	height: 20%;
+	height: 18%;
     width: 500px;
 	display: flex;
 	flex-direction: row;
@@ -106,6 +108,7 @@ hr {
 	align-items: center;
     justify-content: center;
     padding: 0 0 290 720;
+    position: relative;
 }
 .youtube-padding {
     padding-right: 50px;
@@ -125,6 +128,7 @@ hr {
     font-family: monospace;
     font-size: 27px;
 }
+/*
 .gmail-text-div {
     display: grid;
     flex-direction: column;
@@ -135,9 +139,7 @@ hr {
     flex-direction: column;
     margin: -180 0 0 780;
 }
-
-
-
+*/
 
 
 .smaller-bax {
@@ -198,7 +200,7 @@ hr {
 }
 .pfp-position {
 	position: relative;
-	margin-left: 15px;
+    margin-left: 15px;
 }
 .smaller-image {
     height: 350;
@@ -206,7 +208,6 @@ hr {
 }
 footer {
     position: relative;
-    top: 50px;
-    bottom: 50px;
-    font-size: 45px;
+    top: 25px;
+    bottom: 25px;
 }
