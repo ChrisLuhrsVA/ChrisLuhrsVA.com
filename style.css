@@ -15,12 +15,12 @@
         width: 85%;
    }
 }
-@media only screen and (max-width: 992px) { .gmail-text {
+@media only screen and (max-width: 1025px) { .gmail-text {
     padding-right: 27%;
     font-size: 45px;
     }
 }
-@media only screen and (max-width: 992px) { .discord-text {
+@media only screen and (max-width: 1025px) { .discord-text {
     padding-right: 20%;
     font-size: 45px;
     }
