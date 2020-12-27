@@ -103,13 +103,13 @@ hr {
 .padding-contact-socials-text {
     padding-top: 1px;
 }
-#social-media-flexbox {    
-	height: 35%;
+#social-media-flexbox {
+    height: 30%;
 	display: flex;
-	flex-direction: row;
     flex-wrap: nowrap;
-	align-items: center;
     justify-content: center;
+	align-items: center;
+    position: relative;
 }
 .youtube-padding {
     padding-right: 50px;
@@ -117,12 +117,8 @@ hr {
 .gmail-padding {
     padding-right: 50px;
 }
-.twitter-padding {
-    padding-right: 65px;
-}
 .discord-padding {
-    padding-right: 65px;
-    padding-top: 15px;
+    padding: 15 50 0 0;
 }
 .position-email {
     padding-right: 570px;
@@ -132,13 +128,13 @@ hr {
 .gmail-text {
     display: flex;
     flex-direction: column;
-    margin: -50 0 0 45;
+    margin: -50 0 0 72;
     font-size: 35px;
 }
 .discord-text {
     display: flex;
     flex-direction: column;
-    margin: -40 0 0 535;
+    margin: -40 0 0 30%;
     font-size: 35px;
 }
 
