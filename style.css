@@ -95,22 +95,26 @@ hr {
 }
 #social-media-flexbox {    
 	height: 20%;
+    width: 500px;
 	display: flex;
 	flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 	align-items: center;
     justify-content: center;
-    padding-bottom: 50px;
+    padding: 0 0 275 242;
+}
+.youtube-padding {
+    padding-right: 50px;
 }
 .gmail-padding {
     padding-right: 50px;
 }
-.discord-padding {
-    padding-right: 50px;
-    padding-top: 15px;
+.twitter-padding {
+    padding-right: 65px;
 }
-.youtube-padding {
-    padding-right: 50px;
+.discord-padding {
+    padding-right: 65px;
+    padding-top: 15px;
 }
 .position-email {
     padding-right: 570px;
