@@ -15,6 +15,7 @@
         width: 85%;
    }
 }
+/*
 @media only screen and (max-width: 992px) { .gmail-text {
     padding-left: 27%;
     font-size: 45px;
@@ -25,6 +26,7 @@
     font-size: 45px;
     }
 }
+*/
 
 /*background body images*/
 .blue-wood { 
@@ -104,8 +106,11 @@ hr {
     padding-top: 1px;
 }
 #social-media-flexbox {
-    height: 30%;
-	display: flex;
+    height: 35%;
+	display: grid;
+    grid-template-columns: 250px 250px 220px 250px;
+    grid-template-rows: 250px;
+    
     flex-wrap: nowrap;
     justify-content: center;
 	align-items: center;
@@ -118,7 +123,7 @@ hr {
     padding-right: 50px;
 }
 .discord-padding {
-    padding: 15 50 0 0;
+    padding: 15 10 0 0;
 }
 .position-email {
     padding-right: 570px;
@@ -126,15 +131,13 @@ hr {
     font-size: 27px;
 }
 .gmail-text {
-    display: flex;
-    flex-direction: column;
-    margin: -50 0 0 72;
+    display: grid;
+    grid-template-columns: -1vw;
     font-size: 35px;
 }
 .discord-text {
-    display: flex;
-    flex-direction: column;
-    margin: -40 0 0 30%;
+    display: grid;
+    grid-template-columns: 43vw;
     font-size: 35px;
 }
 
