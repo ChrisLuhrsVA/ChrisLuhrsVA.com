@@ -16,9 +16,7 @@
    }
 }
 @media only screen and (max-width: 992px) { #discord-text {
-    display: grid;
-    grid-template-columns: 55vw;
-    font-size: 35px;
+    padding-left: 550px;
     }
 }
 
