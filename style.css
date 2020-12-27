@@ -15,9 +15,9 @@
         width: 85%;
    }
 }
-@media only screen and (max-width: 992px) { .discord-text {
+@media only screen and (max-width: 992px) { #discord-text {
     display: grid;
-    grid-template-columns: 43vw;
+    grid-template-columns: 55vw;
     font-size: 35px;
     }
 }
@@ -126,12 +126,12 @@ hr {
     font-family: monospace;
     font-size: 27px;
 }
-.gmail-text {
+#gmail-text {
     display: grid;
     grid-template-columns: -1vw;
     font-size: 35px;
 }
-.discord-text {
+#discord-text {
     display: grid;
     grid-template-columns: 43vw;
     font-size: 35px;
