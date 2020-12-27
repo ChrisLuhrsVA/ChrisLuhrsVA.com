@@ -121,6 +121,9 @@ hr {
 .discord-padding {
     padding: 15 10 0 0;
 }
+.twitter-padding {
+    padding-left: 15px;
+}
 .position-email {
     padding-right: 570px;
     font-family: monospace;
