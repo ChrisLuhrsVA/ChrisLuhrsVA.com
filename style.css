@@ -15,18 +15,14 @@
         width: 85%;
    }
 }
-/*
-@media only screen and (max-width: 992px) { .gmail-text {
-    padding-left: 27%;
-    font-size: 45px;
-    }
-}
 @media only screen and (max-width: 992px) { .discord-text {
-    padding-left: 20%;
-    font-size: 45px;
+    display: grid;
+    grid-template-columns: 43vw;
+    font-size: 35px;
     }
 }
-*/
+
+
 
 /*background body images*/
 .blue-wood { 
