@@ -101,7 +101,7 @@ hr {
     flex-wrap: wrap;
 	align-items: center;
     justify-content: center;
-    padding: 0 0 275 242;
+    padding: 0 0 290 720;
 }
 .youtube-padding {
     padding-right: 50px;
@@ -121,6 +121,17 @@ hr {
     font-family: monospace;
     font-size: 27px;
 }
+.gmail-text-div {
+    display: grid;
+    flex-direction: column;
+    margin: -560 0 0 920;
+}
+.discord-text-div {
+    display: grid;
+    flex-direction: column;
+    margin: -180 0 0 780;
+}
+
 
 
 
