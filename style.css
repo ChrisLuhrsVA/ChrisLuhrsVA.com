@@ -15,6 +15,10 @@
         width: 85%;
    }
 }
+@media only screen and (max-width: 992px) { #social-media-flexbox {
+    max-width: auto;
+    }
+}
 
 /*background body images*/
 .blue-wood { 
