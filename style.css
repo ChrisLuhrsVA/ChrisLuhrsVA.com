@@ -15,6 +15,10 @@
         width: 85%;
    }
 }
+@media only screen and (max-width: 992px) { #social-media-grid {
+    height: 30%;
+    }
+}
 @media only screen and (max-width: 992px) { #discord-text {
     padding-left: 200px;
     }
@@ -99,7 +103,7 @@ hr {
 .padding-contact-socials-text {
     padding-top: 1px;
 }
-#social-media-flexbox {
+#social-media-grid {
     height: 35%;
 	display: grid;
     grid-template-columns: 250px 250px 220px 250px;
