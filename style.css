@@ -30,7 +30,11 @@
 }
 
 
-
+body, html {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
 /*background body images*/
 .blue-wood { 
         background: url('https://wallpaperaccess.com/full/1567677.jpg') no-repeat center center fixed; 
