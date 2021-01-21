@@ -191,8 +191,9 @@ hr {
 .smaller-logos {
 	width: 500px;
 }
-.data7-position {
-    padding-bottom: 50px;
+.data7-size {
+    height: 375px;
+    width: 480px;
 }
 
 .qualitam-position {
