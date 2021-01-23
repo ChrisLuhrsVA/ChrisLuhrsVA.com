@@ -32,11 +32,7 @@
     }
 }
 @media only screen and (max-width: 992px) { .nav-bar-ul {
-    display: flex; 
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    grid-gap: 75px;
+    grid-gap: 100px;
     }
 }
 @media only screen and (max-width: 992px) { .nav-pfp-size {
