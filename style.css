@@ -56,6 +56,10 @@
         width: 85%;
    }
 }
+@media only screen and (max-width: 992px) { #studio-flexbox {
+    grid-gap: 5%;
+    }
+}
 @media only screen and (max-width: 992px) { #social-media-grid {
     height: 30%;
     }
