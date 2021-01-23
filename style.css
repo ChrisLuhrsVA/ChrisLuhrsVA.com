@@ -36,7 +36,7 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    grid-gap: 35px;
+    grid-gap: 75px;
     }
 }
 @media only screen and (max-width: 992px) { .nav-pfp-size {
