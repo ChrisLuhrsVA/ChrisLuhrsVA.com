@@ -32,7 +32,7 @@
     }
 }
 @media only screen and (max-width: 992px) { #studio, #contact, #testimonials, #clients, #current-roles {
-    padding-right: 50px;
+    margin-right: 50px;
     }
 }
 @media only screen and (max-width: 992px) { .nav-pfp-size {
