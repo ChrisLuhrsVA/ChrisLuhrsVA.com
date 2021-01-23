@@ -43,6 +43,10 @@
     display: none;
     }
 }
+@media only screen and (max-width: 992px) { #nav-bar-box {
+    height: 10%;
+    }
+}
 @media only screen and (max-width: 992px) { #img-flexbox {
       padding-right: 2.7%;
    }
