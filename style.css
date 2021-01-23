@@ -1,3 +1,28 @@
+/*for SoloLearn
+@media { ul { 
+	padding-right: 35px;
+} }
+/*
+@media { img {
+	margin-left: 18px;
+} }
+@media { .moatboat-position {
+	margin: 20px 3px 0px 0px;
+} }
+@media { .qualitam-position { 
+	left: 0px;
+} }
+@media { .youtube-logo { 
+	padding: 0px 15px 0px 0px;
+} }
+@media { .twitter-logo { 
+	margin-right: 25px;
+} }
+@media { .suits-padding { 
+	margin-top: 30px;
+} }
+*/
+
 @media only screen and (max-width: 992px) { .blue-wood {
         background: url('https://wallpaperaccess.com/full/1567677.jpg') no-repeat center center; 
         -webkit-background-size: cover;
@@ -29,7 +54,6 @@
     }
 }
 
-
 body, html {
     border: 0;
     padding: 0;
@@ -54,9 +78,43 @@ body {
     text-align: center;
     max-width: auto;
 }
-.position-header {
-    padding-bottom: 50px;
+
+
+
+/* nav bar */
+#nav-bar-box {
+    display: flex;
+    background-image: url(images/foam-header-youtube.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+    justify-content: center;
+    width: 100%;
+    height: 15%;
+    margin: 0 auto 3.5%;
+    z-index: 50;
 }
+.nav-pfp-size {
+    width: 125px;
+    height: 108px;
+}
+.nav-bar-ul {
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    grid-gap: 35px;
+}
+.a-nav-red {color: red;}
+.a-nav-white {color: whitesmoke}
+.nav-dot {color: black}
+.nav-font-size {font-size: 29px;}
+.nav-bar-li {font-size: 29px;}
+
+
+
+.position-header {padding-bottom: 50px;}
 
 
 
@@ -104,6 +162,7 @@ hr {
     display: flex;
     align-items: center;
     justify-content: center;
+    grid-gap: 25px;
 }
 
 
@@ -117,7 +176,6 @@ hr {
 	display: grid;
     grid-template-columns: 250px 250px 220px 250px;
     grid-template-rows: 250px;
-    
     flex-wrap: nowrap;
     justify-content: center;
 	align-items: center;
