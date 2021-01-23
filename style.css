@@ -31,9 +31,8 @@
         background-size: cover;
     }
 }
-@media only screen and (max-width: 992px) { .nav-bar-ul {
-    padding-right: 200px;
-    flex-wrap: wrap;
+@media only screen and (max-width: 992px) { #studio, #contact, #testimonials, #clients, #current-roles {
+    padding-right: 50px;
     }
 }
 @media only screen and (max-width: 992px) { .nav-pfp-size {
