@@ -98,6 +98,9 @@ body, html {
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
+        border: 0;
+        margin: 0;
+        padding: 0;
 }
 #html {
     height: auto;
