@@ -31,6 +31,13 @@
         background-size: cover;
     }
 }
+@media only screen and (max-width: 992px) { .nav-bar-ul {
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    grid-gap: 50px;
+    }
+}
 @media only screen and (max-width: 992px) { #img-flexbox {
       padding-right: 2.7%;
    }
