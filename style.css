@@ -74,6 +74,10 @@
     padding-left: 12.5px;
     }
 }
+@media only screen and (max-width: 992px) { .blue-wood-size {
+    height: 40%;
+    }
+}
 @media only screen and (max-width: 992px) { #social-media-grid {
     height: 30%;
     }
